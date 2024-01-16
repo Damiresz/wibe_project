@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'SirinStencil';
+  font-style: normal;
+  font-weight: 400;
+  src: local("SirinStencil Regular"), local("SirinStencil-Regular"),
+    url("SirinStencil-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Kaushan Script";
+  font-style: normal;
+  font-weight: 400;
+  src: local("KaushanScript Regular"), local("KaushanScript-Regular"),
+    url("KaushanScript-Regular.ttf") format("ttf");
+}
